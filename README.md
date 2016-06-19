@@ -13,8 +13,11 @@ I am porting my original perl kakuro solver into other languages.
 * [fsharp](https://github.com/gavilancomun/kakuro-fsharp)
 * [erlang](https://github.com/gavilancomun/kakuro-erlang)
 * [clojure](https://github.com/gavilancomun/kakuro-clojure)
+    * functional core.clj
+    * finite domain logic logic.clj
 * [scala](https://github.com/gavilancomun/kakuro-scala)
 * [haskell](https://github.com/gavilancomun/kakuro-haskell)
+* [lua](https://github.com/gavilancomun/kakuro-lua)
 
 ##Work in progress
 * [elixir](https://github.com/gavilancomun/kakuro-elixir)
