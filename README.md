@@ -6,6 +6,8 @@ I am porting my original perl kakuro solver into other languages.
 
 ## Solver with added Antlr
 * [java](https://github.com/gavilancomun/kakuro-java)
+    * also kakuro2, a simplified backport from clojure and lua.
+
 * [csharp](https://github.com/gavilancomun/kakuro-csharp)
 
 ## Working solver
