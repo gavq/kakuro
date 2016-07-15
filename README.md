@@ -18,7 +18,9 @@ I am porting my original perl kakuro solver into other languages.
 * [scala](https://github.com/gavilancomun/kakuro-scala)
 * [haskell](https://github.com/gavilancomun/kakuro-haskell)
 * [lua](https://github.com/gavilancomun/kakuro-lua)
-
+* [javascript](https://github.com/gavilancomun/kakuro-js)
+    * ES6
+    * QUnit
 ##Work in progress
 * [elixir](https://github.com/gavilancomun/kakuro-elixir)
 
