@@ -21,6 +21,7 @@ I am porting my original perl kakuro solver into other languages.
 * [javascript](https://github.com/gavilancomun/kakuro-js)
     * ES6
     * QUnit
+
 ##Work in progress
 * [elixir](https://github.com/gavilancomun/kakuro-elixir)
 
