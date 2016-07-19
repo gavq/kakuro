@@ -2,7 +2,7 @@
 
 [Kakuro](https://en.wikipedia.org/wiki/Kakuro) is a kind of number puzzle.
 
-I am porting my original perl kakuro solver into other languages.
+Building kakuro solvers to explore language features.
 
 ## Solver with added Antlr
 * [java](https://github.com/gavilancomun/kakuro-java)
