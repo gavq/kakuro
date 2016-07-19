@@ -11,17 +11,19 @@ I am porting my original perl kakuro solver into other languages.
 * [csharp](https://github.com/gavilancomun/kakuro-csharp)
 
 ## Working solver
-* [perl](https://github.com/gavilancomun/kakuro-perl)
-* [fsharp](https://github.com/gavilancomun/kakuro-fsharp)
-* [erlang](https://github.com/gavilancomun/kakuro-erlang)
 * [clojure](https://github.com/gavilancomun/kakuro-clojure)
     * functional core.clj
     * finite domain logic logic.clj
-* [scala](https://github.com/gavilancomun/kakuro-scala)
+* [elixir](https://github.com/gavilancomun/kakuro-elixir)
+* [erlang](https://github.com/gavilancomun/kakuro-erlang)
+* [fsharp](https://github.com/gavilancomun/kakuro-fsharp)
 * [haskell](https://github.com/gavilancomun/kakuro-haskell)
-* [lua](https://github.com/gavilancomun/kakuro-lua)
 * [javascript](https://github.com/gavilancomun/kakuro-js)
     * ES6
     * QUnit
-* [elixir](https://github.com/gavilancomun/kakuro-elixir)
+* [lua](https://github.com/gavilancomun/kakuro-lua)
+* [perl](https://github.com/gavilancomun/kakuro-perl)
+* [python](https://github.com/gavilancomun/kakuro-python3)
+* [ruby](https://github.com/gavilancomun/kakuro-ruby)
+* [scala](https://github.com/gavilancomun/kakuro-scala)
 
