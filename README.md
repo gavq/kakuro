@@ -24,6 +24,7 @@ Building kakuro solvers to explore language features.
 * [lua](https://github.com/gavilancomun/kakuro-lua)
 * [perl](https://github.com/gavilancomun/kakuro-perl)
 * [python](https://github.com/gavilancomun/kakuro-python3)
+* [racket](https://github.com/gavilancomun/kakuro-racket)
 * [ruby](https://github.com/gavilancomun/kakuro-ruby)
 * [scala](https://github.com/gavilancomun/kakuro-scala)
 
