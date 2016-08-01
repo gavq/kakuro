@@ -14,6 +14,7 @@ Building kakuro solvers to explore language features.
 * [clojure](https://github.com/gavilancomun/kakuro-clojure)
     * functional core.clj
     * finite domain logic logic.clj
+* [elisp](https://github.com/gavilancomun/kakuro-elisp)
 * [elixir](https://github.com/gavilancomun/kakuro-elixir)
 * [erlang](https://github.com/gavilancomun/kakuro-erlang)
 * [fsharp](https://github.com/gavilancomun/kakuro-fsharp)
