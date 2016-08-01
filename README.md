@@ -10,18 +10,14 @@ Building kakuro solvers to explore language features.
 
 * [csharp](https://github.com/gavilancomun/kakuro-csharp)
 
-## Working solver
+## Working solvers
 * [clojure](https://github.com/gavilancomun/kakuro-clojure)
-    * functional core.clj
-    * finite domain logic logic.clj
 * [elisp](https://github.com/gavilancomun/kakuro-elisp)
 * [elixir](https://github.com/gavilancomun/kakuro-elixir)
 * [erlang](https://github.com/gavilancomun/kakuro-erlang)
 * [fsharp](https://github.com/gavilancomun/kakuro-fsharp)
 * [haskell](https://github.com/gavilancomun/kakuro-haskell)
 * [javascript](https://github.com/gavilancomun/kakuro-js)
-    * ES6
-    * QUnit
 * [lua](https://github.com/gavilancomun/kakuro-lua)
 * [perl](https://github.com/gavilancomun/kakuro-perl)
 * [python](https://github.com/gavilancomun/kakuro-python3)
