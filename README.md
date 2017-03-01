@@ -4,19 +4,16 @@
 
 Building kakuro solvers to explore language features.
 
-## Solvers with added Antlr
-* [java](https://github.com/gavilancomun/kakuro-java)
-    * also kakuro2, a simplified backport from clojure and lua.
-
-* [csharp](https://github.com/gavilancomun/kakuro-csharp)
-
 ## Solvers
 * [clojure](https://github.com/gavilancomun/kakuro-clojure)
+* [csharp](https://github.com/gavilancomun/kakuro-csharp)
 * [elisp](https://github.com/gavilancomun/kakuro-elisp)
 * [elixir](https://github.com/gavilancomun/kakuro-elixir)
 * [erlang](https://github.com/gavilancomun/kakuro-erlang)
 * [fsharp](https://github.com/gavilancomun/kakuro-fsharp)
 * [haskell](https://github.com/gavilancomun/kakuro-haskell)
+* [java](https://github.com/gavilancomun/kakuro-java)
+    * also kakuro2, a simplified backport from clojure and lua.
 * [javascript](https://github.com/gavilancomun/kakuro-js)
 * [lua](https://github.com/gavilancomun/kakuro-lua)
 * [perl](https://github.com/gavilancomun/kakuro-perl)
