@@ -6,6 +6,7 @@ Building kakuro solvers to explore language features.
 
 ## Solvers
 * [clojure](https://github.com/gavilancomun/kakuro-clojure)
+    * Two solvers. One functional, one logic programming over finite domains.
 * [csharp](https://github.com/gavilancomun/kakuro-csharp)
 * [elisp](https://github.com/gavilancomun/kakuro-elisp)
 * [elixir](https://github.com/gavilancomun/kakuro-elixir)
